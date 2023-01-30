@@ -125,5 +125,20 @@ button{
     left: 0px;
     top: 549px;
     background: rgba(0, 255, 133, 0.08);
-    opacity: 0.6;
+}
+.triangle{
+    position: absolute;
+    width: 107px;
+    height: 87px;
+    left: 98px;
+    top: 390px;
+
+}
+.triangle2{
+    position: absolute;
+    width: 80px;
+    height: 98px;
+    left: 1246px;
+    top: 90px;
+
 }
