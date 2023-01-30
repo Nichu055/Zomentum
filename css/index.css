@@ -142,3 +142,6 @@ button{
     top: 90px;
 
 }
+.item{
+    display: flex;
+}
