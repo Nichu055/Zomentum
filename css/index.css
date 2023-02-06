@@ -184,3 +184,260 @@ color: #000000;
     line-height: 27px;
     letter-spacing: 0.01em;
 }
+
+.divon{
+    margin-top: 40em;
+    margin-left: 13em;
+}
+
+.divp h2{
+    width: 379px;
+    height: 74px;
+
+    margin-top: 3em;
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 37px;
+
+    color: #181818;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.divp p{
+    width: 410px;
+    height: 54px;
+    
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    /* or 169% */
+
+    letter-spacing: 0.01em;
+
+    color: #000C2D;
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+/* div two */
+
+.maindivtwo{
+    margin-top: 5em;
+    margin-left: 9em;
+}
+.divtwo{
+    margin-left: 10em;
+    margin-top: -2em;
+}
+.divtwo a{
+    text-decoration: none;
+}
+.divtwo h2{
+    
+    width: 379px;
+    height: 74px;
+
+    margin-top: 3em;
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 37px;
+
+    color: #181818;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.divtwo p{
+    width: 410px;
+    height: 54px;
+    
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    /* or 169% */
+
+    letter-spacing: 0.01em;
+
+    color: #000C2D;
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+/* div three */
+.maindivthree{
+    margin-top: 5em;
+    margin-left: 4em;
+}
+
+.divthree{
+    margin-left: 10em;
+    margin-right: 6em;
+}
+.divthree a{
+    margin-top: 10em;
+    text-decoration: none;
+}
+.divthree h2{
+    
+    width: 379px;
+    height: 74px;
+
+    margin-top: 3em;
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 37px;
+
+    color: #181818;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.divthree p{
+    width: 410px;
+    height: 54px;
+    
+    font-family: 'Circular Std';
+    margin-bottom: 3em;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    /* or 169% */
+
+    letter-spacing: 0.01em;
+
+    color: #000C2D;
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+/* div four */
+
+.maindivfour{
+    margin-top: 5em;
+    margin-left: 13em;
+}
+.divfour{
+    margin-left: 10em;
+    margin-top: -3em;
+}
+.divfour a{
+    text-decoration: none;
+}
+.divfour h2{
+    
+    width: 379px;
+    height: 74px;
+
+    margin-top: 3em;
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 37px;
+
+    color: #181818;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.divfour p{
+    width: 410px;
+    height: 54px;
+    
+    font-family: 'Circular Std';
+    margin-bottom: 3em;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    /* or 169% */
+
+    letter-spacing: 0.01em;
+
+    color: #000C2D;
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+/* div five */
+
+.maindivfive{
+    margin-top: 5em;
+    margin-left: 4em;
+}
+
+.divfive{
+    margin-left: 10em;
+    margin-right: 6em;
+}
+.divfive a{
+    margin-top: 10em;
+    text-decoration: none;
+}
+.divfive h2{
+    
+    width: 379px;
+    height: 74px;
+
+    margin-top: 3em;
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 37px;
+
+    color: #181818;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.divfive p{
+    width: 410px;
+    height: 54px;
+    
+    font-family: 'Circular Std';
+    margin-bottom: 3em;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    /* or 169% */
+
+    letter-spacing: 0.01em;
+
+    color: #000C2D;
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
